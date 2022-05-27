@@ -9,8 +9,9 @@ Tom is looking for fast and effecient programming to help tally the election res
 
 
 Election Results<br />
+---------------------------
 Total Votes: 369,711<br />
-
+---------------------------
 
 County Votes:<br />
 Jefferson: 10.5% (38855)<br />
